@@ -1,0 +1,13 @@
+{
+  "New Component": {
+    "prefix": "comp",
+    "body": [
+      "interface ${1:name}Props {}",
+      "",
+      "export default function ${1:name}(props: ${1:name}Props) {",
+      "  return <div></div>",
+      "}"
+    ],
+    "description": "New Component"
+  }
+}
