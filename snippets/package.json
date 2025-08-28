@@ -2,7 +2,7 @@
   "name": "personal-snippets",
   "contributes": {
     "snippets": [
-      { "language": ["typescriptreact", "javascriptreact"], "path": "./react.json" }
+      { "language": ["typescript", "typescriptreact", "javascriptreact"], "path": "./react.json" }
     ]
   }
 }
